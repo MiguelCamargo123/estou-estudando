@@ -1,33 +1,31 @@
-# Calculadora em Python
+# Python Calculator
 
-Projeto simples de uma calculadora desenvolvida em Python, criado com o objetivo de praticar lógica de programação e o uso do Git e GitHub.
+A simple calculator project developed in Python, created with the purpose of practicing programming logic and the use of Git and GitHub.
 
-## 🧮 Funcionalidades
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Terminal interface
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-- Interface via terminal
+## How to run the project
 
-## 🚀 Como executar o projeto
+### Requirements
+- Python 3 installed on the machine
 
-### Pré-requisitos
-- Python 3 instalado na máquina
-
-### Execução
-
-1. Clone este repositório:
+### Execution
+1. Clone this repository:
    ```bash
-   git clone https://github.com/MiguelCamargo123/estou-estudando.git
+   git clone https://github.com/MiguelCamargo123/calculadora
 
-2. Entre na pasta do projeto:
+2. Enter the project folder:
    ```bash
-   cd estou-estudando
+   cd calculadora
 
-3. Execute o arquivo:
+3. Run the file:
    ```bash
    python calculadora.py
 
-### 📦Versão
-- v1.0.0 - Primeira versão estável da calculadora
+## Version
+- v1.0.0 – First stable version of the calculator
